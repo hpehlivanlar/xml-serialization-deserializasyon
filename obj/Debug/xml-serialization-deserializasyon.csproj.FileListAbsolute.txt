@@ -1,0 +1,7 @@
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\xml-serialization-deserializasyon\bin\Debug\xml-serialization-deserializasyon.exe.config
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\xml-serialization-deserializasyon\bin\Debug\xml-serialization-deserializasyon.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\xml-serialization-deserializasyon\bin\Debug\xml-serialization-deserializasyon.pdb
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\xml-serialization-deserializasyon\obj\Debug\xml-serialization-deserializasyon.csprojAssemblyReference.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\xml-serialization-deserializasyon\obj\Debug\xml-serialization-deserializasyon.csproj.CoreCompileInputs.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\xml-serialization-deserializasyon\obj\Debug\xml-serialization-deserializasyon.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\xml-serialization-deserializasyon\obj\Debug\xml-serialization-deserializasyon.pdb

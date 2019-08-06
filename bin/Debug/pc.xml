@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pc>
+  <HP>
+    <Model>500</Model>
+    <Fiyat>500</Fiyat>
+  </HP>
+  <Acer>
+    <Model>1500</Model>
+    <Fiyat>10500</Fiyat>
+  </Acer>
+</Pc>
